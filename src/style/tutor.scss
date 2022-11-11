@@ -1,0 +1,69 @@
+.class-header {
+    text-align: left;
+    margin: 50px;
+    color: aliceblue;
+}
+
+.class-container {
+    padding: 0 50px;
+}
+
+.class-info {
+    color: aliceblue;
+}
+
+.table tr {
+    color: aliceblue;
+}
+
+.date-picker {
+    margin-right: 20px;
+}
+
+.date-picker input {
+    color: aliceblue;
+}
+
+.date-picker-container {
+    display: inline-flex;
+}
+
+.attendance-list {
+    max-height: 600px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.dropdown {
+    justify-content: left;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+/* width */
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+
+/* Track */
+
+ ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+
+/* Handle */
+
+ ::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+
+/* Handle on hover */
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
