@@ -1,5 +1,5 @@
 const GlobalConfig = {
-    apiUrl: 'http://localhost:8080'
+    apiUrl: 'hhttps://sinnostudio-be.herokuapp.com'
         // other global config variables you wish
 };
 
